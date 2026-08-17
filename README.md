@@ -1,4 +1,3 @@
-🚀 Data Warehouse and Analytics Project 🚀
 
 📌 Project Overview This project demonstrates the end-to-end development of a modern Data Warehouse and Analytics solution using SQL Server.
 
@@ -13,4 +12,3 @@ The project follows the Medallion Architecture, consisting of:
     🥇 Gold Layer – Business-ready analytical data
     
 
-The main objective is to demonstrate practical Data Engineering skills including SQL development, ETL, data warehousing, data modeling, data quality, and analytics.
